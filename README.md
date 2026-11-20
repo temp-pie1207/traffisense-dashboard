@@ -5,6 +5,7 @@
   [![Live Dashboard](https://img.shields.io/badge/Live_Dashboard-TraffiSense_Cloud-00E5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://traffisense-dashboard.vercel.app)
   [![3D Digital Twin](https://img.shields.io/badge/3D_Simulator-PRAVAH_Twin-FF6D00?style=for-the-badge&logo=three.js&logoColor=white)](https://pravah-3d-simulator.vercel.app)
   [![Core CV Engine](https://img.shields.io/badge/Core_Engine-TraffiSense_CV-blue?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/temp-pie1207/traffic-violation-system)
+  [![Demo Videos](https://img.shields.io/badge/Demo_Videos-Play_%26_Download-E11D48?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/temp-pie1207/traffic-violation-system#--demo-videos--benchmark-clips)
   [![React 18](https://img.shields.io/badge/React-18.x-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
   [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
@@ -16,7 +17,8 @@
   <p align="center">
     <a href="https://traffisense-dashboard.vercel.app"><strong>⚡ Launch Live Production Dashboard (Vercel) ↗</strong></a> •
     <a href="https://pravah-3d-simulator.vercel.app">3D PRAVAH Simulator</a> •
-    <a href="https://github.com/temp-pie1207/traffic-violation-system">Core Vision Engine Repo</a>
+    <a href="https://github.com/temp-pie1207/traffic-violation-system">Core Vision Engine</a> •
+    <a href="https://github.com/temp-pie1207/traffic-violation-system/tree/main/videos_final"><strong>🎬 Benchmark Videos ↗</strong></a>
   </p>
 
 </div>
